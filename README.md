@@ -99,8 +99,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjay1882&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Sanjayraju's GitHub Stats" />
 
 <!-- Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay1882&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Sanjayraju's GitHub Streak" />
-
+<!-- GitHub Stats with streak included -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjay1882&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Sanjayraju's GitHub Stats" />
 <!-- Top Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay1882&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 
